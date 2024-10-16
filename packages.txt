@@ -1,0 +1,4 @@
+npm install -g json-server
+
+run with:
+json-server students.json
