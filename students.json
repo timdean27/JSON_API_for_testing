@@ -1,0 +1,55 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "age": 20,
+        "grade": "Sophomore",
+        "major": "Computer Science",
+        "email": "johndoe@example.com",
+        "gpa": 3.5
+      },
+      {
+        "id": 2,
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "age": 22,
+        "grade": "Senior",
+        "major": "Mechanical Engineering",
+        "email": "janesmith@example.com",
+        "gpa": 3.8
+      },
+      {
+        "id": 3,
+        "firstName": "David",
+        "lastName": "Johnson",
+        "age": 21,
+        "grade": "Junior",
+        "major": "Physics",
+        "email": "davidjohnson@example.com",
+        "gpa": 3.2
+      },
+      {
+        "id": 4,
+        "firstName": "Emily",
+        "lastName": "Davis",
+        "age": 19,
+        "grade": "Freshman",
+        "major": "Biology",
+        "email": "emilydavis@example.com",
+        "gpa": 3.9
+      },
+      {
+        "id": 5,
+        "firstName": "Michael",
+        "lastName": "Brown",
+        "age": 23,
+        "grade": "Graduate",
+        "major": "Data Science",
+        "email": "michaelbrown@example.com",
+        "gpa": 3.7
+      }
+    ]
+  }
+  
